@@ -1,11 +1,11 @@
-## Dominion Card Generator
+# Dominion Card Generator
 Dominion Card Generator is a simple-to-use application that allows Dominion players to generate cards to play with.
 
 
-# Description
+##Description
 Dominion Card Generator is a simple-to-use application that allows Dominion players to generate cards to play with.
 
-# Features
+## Features
 - DCG randomly chooses cards for Dominion players to play with.
 - The users can stay with the default of 10 cards, or choose to generate a larger amount and then 'ban' cards.
 - If the user wishes to view all cards, that is an option as well.
