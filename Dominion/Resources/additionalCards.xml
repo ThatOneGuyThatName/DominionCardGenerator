@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cards>
+  <Card>
+    <Name>Witch</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Embargo</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Sea Hag</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Mountebank</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Hermit</Name>
+    <Gained>Madman</Gained>
+  </Card>
+  <Card>
+    <Name>Urchin</Name>
+    <Gained>Mercenary</Gained>
+  </Card>
+  <Card>
+    <Name>Death Cart</Name>
+    <Gained>Ruins</Gained>
+  </Card>
+  <Card>
+    <Name>Marauder</Name>
+    <Gained>Spoils,Ruins</Gained>
+  </Card>
+  <Card>
+    <Name>Bandit Camp</Name>
+    <Gained>Spoils</Gained>
+  </Card>
+  <Card>
+    <Name>Cultist</Name>
+    <Gained>Ruins</Gained>
+  </Card>
+  <Card>
+    <Name>Pillage</Name>
+    <Gained>Spoils</Gained>
+  </Card>
+  <Card>
+    <Name>Transmute</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Vineyard</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Apothecary</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Scrying Pool</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>University</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Alchemist</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Familiar</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Philosopher's Stone</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Golem</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Possession</Name>
+    <Gained>Potion</Gained>
+  </Card>
+  <Card>
+    <Name>Tournament</Name>
+    <Gained>Prize</Gained>
+  </Card>
+  <Card>
+    <Name>Young Witch</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Jester</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Followers</Name>
+    <Gained>Curse</Gained>
+  </Card>
+  <Card>
+    <Name>Soothsayer</Name>
+    <Gained>Curse</Gained>
+  </Card>
+</Cards>

@@ -1,0 +1,18 @@
+Program name:
+     Dominion Card Generator
+Description:
+     DCG randomly chooses cards for Dominion players to play with.
+     The users can stay with the default of 10 cards, or choose to generate more than that amount and then 'ban' cards.
+     If the user wishes to view all cards, that is an option as well.
+     When a card is selected, the card's information (Name, Cost, Type, Set, and Description) are displayed as well.)
+     When cards are generated, whatever cards are to also be played with are shown as well. (e.g. When a Witch is in play, a curse should also be played with as well (Witch description: (Each other player gains a Curse card.)))
+     Not all users own all Promotional cards. Because of this, users can select which promotional cards they do own.
+     
+Author: Justin "The" Fern
+
+==============================================================================================
+ Very special thanks to: Brandon Olson for help with maintaining the code and making the code dynamic.
+ Very special thanks to: Philip Wolfe for help with finding bugs and coming up with ideas for future features.
+==============================================================================================
+
+Card Information retrieved from link.

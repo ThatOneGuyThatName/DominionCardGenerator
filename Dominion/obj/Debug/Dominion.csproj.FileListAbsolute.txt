@@ -1,0 +1,127 @@
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\bin\Debug\Dominion.exe.config
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\bin\Debug\Dominion.exe
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\bin\Debug\Dominion.pdb
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.exe
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.pdb
+c:\users\jusfern\documents\visual studio 2012\Projects\Dominion\Dominion\obj\Debug\Dominion.Form1.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.Form1.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.2\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.Form1.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.3\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - current - broken\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V0.4\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.0\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.1\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V1.2\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - current - broken\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\bin\Debug\Dominion.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\bin\Debug\Dominion.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\bin\Debug\Dominion.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\bin\Debug\Dominion Card Generator.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1 - Broken\Dominion\obj\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\bin\Debug\Dominion Card Generator.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\bin\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\bin\Debug\Dominion Card Generator.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.1\Dominion\obj\Debug\Dominion Card Generator.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\bin\Debug\Dominion Card Generator.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion Card Generator.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\bin\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\bin\Debug\Dominion Card Generator.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.2\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\bin\Debug\Dominion Card Generator.exe.config
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion Card Generator.pdb
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.csprojResolveAssemblyReference.cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.AddPromoCards.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.Credits.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.DominionGenerator.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.Properties.Resources.resources
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\obj\Debug\Dominion.csproj.GenerateResource.Cache
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\bin\Debug\Dominion Card Generator.exe
+C:\Users\jusfern\Documents\Visual Studio 2012\Projects\Dominion - V2.3\Dominion\bin\Debug\Dominion Card Generator.pdb
